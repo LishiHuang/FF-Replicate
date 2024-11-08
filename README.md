@@ -35,5 +35,5 @@ Updated the newly-designed program frame
 Create 10 portfolios separately by Assets, Inventory, ppe growth
 - **06/07/2024**  
 Create 10 momentum portfolio
--**05/10/2024**
+- **05/10/2024**
 Create 10 size portfolio
