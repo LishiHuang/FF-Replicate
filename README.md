@@ -1,7 +1,11 @@
 # FF-Replicate
 This is a program to replicate the research of Fama-French Factor Model
 
-main.ipynb is used to control the program
+## main.ipynb is used to control the program
+''' original_index='epspi'
+document_path='C:\\Users\\Julia\\Desktop\\Asset pricing data\\test\\'
+start_date='01/01/1959'
+end_date='8/31/2024'
 
 -**11/04/2024**  
 Move to a new address
