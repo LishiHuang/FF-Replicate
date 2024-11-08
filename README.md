@@ -2,10 +2,13 @@
 This is a program to replicate the research of Fama-French Factor Model
 
 ## main.ipynb is used to control the program
-''' original_index='epspi'
+Modify the four code in first cell to download data including certain index to the appointed path in setted time range
+''' 
+original_index='epspi'
 document_path='C:\\Users\\Julia\\Desktop\\Asset pricing data\\test\\'
 start_date='01/01/1959'
 end_date='8/31/2024'
+'''
 
 -**11/04/2024**  
 Move to a new address
